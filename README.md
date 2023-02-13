@@ -9,7 +9,7 @@ Este projeto é um aplicativo de dashboard em tempo real criado com Node.js, Exp
 
 ## Instalação
 
-1. Clone este repositório para o seu computador usando o comando `git clone <url-do-repositório>`.
+1. Clone este repositório para o seu computador usando o comando `git clone https://github.com/fabiogiacomel/dsTeste.git`.
 2. Navegue até a pasta raiz do projeto e execute o comando `npm install` para instalar as dependências do projeto.
 3. Execute o comando `npm start` para iniciar o servidor.
 
