@@ -16,7 +16,7 @@ Este projeto é um aplicativo de dashboard em tempo real criado com Node.js, Exp
 ## Uso
 
 1. Acesse o aplicativo em `http://localhost:3000`.
-2. Faça o que seu aplicativo precisa fazer.
+2. O servidor vai enviar números randomicos para a cliente.
 
 ## Contribuindo
 
